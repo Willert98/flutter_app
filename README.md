@@ -1,8 +1,4 @@
 # flutter_app
 
-A new Flutter application.
+A Simple Flutter App like eleme
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
